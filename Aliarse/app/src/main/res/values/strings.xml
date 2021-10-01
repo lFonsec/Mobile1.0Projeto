@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aliarse</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="criar">Criar</string>
+    <string name="lista">Lista</string>
+    <string name="perfil">Perfil</string>
+    <string name="adm">Adm</string>
+    <string name="sair">Sair</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="logo">Logo</string>
+    <string name="logolista">logo</string>
+    <string name="voltar">Voltar</string>
+
+    <string name="nome_da_doa_o">Nome da Doação</string>
+    <string name="doar">Doar</string>
+</resources>
